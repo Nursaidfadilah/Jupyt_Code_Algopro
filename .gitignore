@@ -1,0 +1,14 @@
+.ipynb_checkpoints/
+  */.  .ipynb_checkpoints/*
+  *.exe
+  *.jpg
+  *.jpeg
+  *.png
+  *.jfif
+  *.rar
+  *.zip
+  *.docx
+  *.xlsx
+  *.pptx
+  *.pdf
+  
